@@ -1,1 +1,1 @@
-console.log("This is JavaScript code for test automation")
+print("Updated javascript code in app2")
